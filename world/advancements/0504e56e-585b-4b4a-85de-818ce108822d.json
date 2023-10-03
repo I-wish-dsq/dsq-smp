@@ -1,0 +1,39 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-04-25 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2023-04-25 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-04-25 19:03:30 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2023-04-25 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-04-25 19:03:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2023-04-25 19:03:07 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

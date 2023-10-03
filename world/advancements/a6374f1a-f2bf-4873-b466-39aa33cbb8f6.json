@@ -1,0 +1,33 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-08-25 21:17:19 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2022-08-25 21:17:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-01-15 22:09:41 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2022-08-25 21:17:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2023-01-15 22:08:06 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

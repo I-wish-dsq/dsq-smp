@@ -1,0 +1,28 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-01-14 19:35:25 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2023-01-14 19:35:25 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2023-01-14 19:35:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2023-01-14 19:35:25 +0300",
+      "minecraft:swamp": "2023-01-15 22:09:01 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

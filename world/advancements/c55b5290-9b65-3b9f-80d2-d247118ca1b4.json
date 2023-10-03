@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2022-08-21 21:42:52 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
