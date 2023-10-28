@@ -1,0 +1,39 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-10-19 17:58:53 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2023-10-19 17:58:53 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2023-10-19 17:58:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-10-19 17:58:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2023-10-19 17:58:53 +0300"
+    },
+    "done": false
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-10-19 17:58:53 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
