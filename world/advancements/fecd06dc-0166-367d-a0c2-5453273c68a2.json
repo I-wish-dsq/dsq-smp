@@ -1,0 +1,43 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-11-27 16:33:22 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2023-11-27 16:33:22 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2023-11-27 16:33:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-27 16:33:22 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-11-27 16:33:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2023-11-27 16:34:36 +0300",
+      "minecraft:deep_ocean": "2023-11-27 16:34:18 +0300",
+      "minecraft:beach": "2023-11-27 16:34:12 +0300",
+      "minecraft:forest": "2023-11-27 16:33:23 +0300",
+      "minecraft:ocean": "2023-11-27 16:34:14 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

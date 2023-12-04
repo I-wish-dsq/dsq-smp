@@ -1092,6 +1092,7 @@
       "minecraft:vindicator": "2022-10-30 15:38:56 +0300",
       "minecraft:magma_cube": "2022-08-25 21:38:01 +0300",
       "minecraft:spider": "2022-08-21 18:54:47 +0300",
+      "minecraft:piglin_brute": "2023-11-01 23:06:25 +0300",
       "minecraft:creeper": "2022-08-22 12:55:57 +0300",
       "minecraft:wither": "2022-08-26 18:49:18 +0300",
       "minecraft:slime": "2022-08-22 16:50:38 +0300",
@@ -5794,12 +5795,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2023-10-26 23:31:05 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
       "has_needed_dye": "2023-10-26 23:28:56 +0300"
@@ -5818,9 +5813,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-10-26 23:31:05 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2023-10-26 23:31:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-10-28 18:24:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2023-10-28 18:30:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-10-30 19:29:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-30 19:29:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-10-30 19:29:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2023-10-30 19:40:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-10-30 19:40:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-11-01 21:41:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-11-01 21:41:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-11-01 21:41:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2023-11-01 23:07:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-11-01 23:07:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2023-11-01 23:20:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2023-11-01 23:32:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2023-11-01 23:32:24 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2023-11-01 23:32:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-11-01 23:51:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-11-01 23:51:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-11-02 14:35:41 +0300"
     },
     "done": true
   },

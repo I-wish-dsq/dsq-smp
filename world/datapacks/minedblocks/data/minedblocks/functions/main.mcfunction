@@ -1,0 +1,3 @@
+function minedblocks:count_mined_blocks
+
+function minedblocks:reset_individual_blocks

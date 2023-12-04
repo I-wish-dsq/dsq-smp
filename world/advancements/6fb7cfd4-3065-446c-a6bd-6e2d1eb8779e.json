@@ -1,0 +1,206 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-11-27 16:43:47 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2023-11-27 16:43:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-27 17:19:06 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2023-11-27 16:43:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-11-27 16:59:54 +0300",
+      "minecraft:nether_wastes": "2023-11-27 17:11:12 +0300",
+      "minecraft:soul_sand_valley": "2023-11-27 17:04:02 +0300",
+      "minecraft:warped_forest": "2023-11-27 17:11:46 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-27 16:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-27 16:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-11-27 17:19:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-11-27 17:06:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-27 16:43:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-11-27 16:49:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-11-27 17:10:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-11-27 17:05:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-27 17:19:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-11-27 17:19:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2023-11-27 16:46:12 +0300",
+      "minecraft:deep_ocean": "2023-11-27 16:50:12 +0300",
+      "minecraft:sunflower_plains": "2023-11-27 16:52:13 +0300",
+      "minecraft:windswept_hills": "2023-11-27 16:58:04 +0300",
+      "minecraft:beach": "2023-11-27 16:44:39 +0300",
+      "minecraft:swamp": "2023-11-27 17:13:14 +0300",
+      "minecraft:cold_ocean": "2023-11-27 16:57:51 +0300",
+      "minecraft:forest": "2023-11-27 16:43:48 +0300",
+      "minecraft:lush_caves": "2023-11-27 17:13:42 +0300",
+      "minecraft:deep_cold_ocean": "2023-11-27 16:56:47 +0300",
+      "minecraft:desert": "2023-11-27 17:04:45 +0300",
+      "minecraft:ocean": "2023-11-27 16:50:38 +0300",
+      "minecraft:warm_ocean": "2023-11-27 17:04:14 +0300",
+      "minecraft:deep_lukewarm_ocean": "2023-11-27 17:16:58 +0300",
+      "minecraft:plains": "2023-11-27 16:44:53 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-11-27 17:19:06 +0300"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-11-27 16:43:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-11-27 17:09:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2023-11-27 16:51:12 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-27 16:51:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-27 16:50:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-11-27 17:05:05 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

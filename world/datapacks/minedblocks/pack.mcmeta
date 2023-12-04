@@ -1,0 +1,6 @@
+{
+	"pack" : {
+		"pack_format" : 15,
+		"description" : "Displays total mined blocks of player. Press TAB to show scores. Datapack by whynothing"
+	}
+}
